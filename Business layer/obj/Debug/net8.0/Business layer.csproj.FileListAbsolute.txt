@@ -1,0 +1,18 @@
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\bin\Debug\net8.0\Business layer.deps.json
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\bin\Debug\net8.0\Business layer.dll
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\bin\Debug\net8.0\Business layer.pdb
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\bin\Debug\net8.0\DAL.dll
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\bin\Debug\net8.0\Shared.dll
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\bin\Debug\net8.0\DAL.pdb
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\bin\Debug\net8.0\Shared.pdb
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business layer.csproj.AssemblyReference.cache
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business layer.AssemblyInfoInputs.cache
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business layer.AssemblyInfo.cs
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business layer.csproj.CoreCompileInputs.cache
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business layer.sourcelink.json
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business.DC978D32.Up2Date
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business layer.dll
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\refint\Business layer.dll
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\Business layer.pdb
+C:\Users\santi\Source\Repos\Zeta0171\.net\Business layer\obj\Debug\net8.0\ref\Business layer.dll
