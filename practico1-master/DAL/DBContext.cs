@@ -5,12 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using DAL.Models;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DAL
 {
     public class DBContext : DbContext
     {
-        string connectionString = "Server=SantinoLaptop\\SQLEXPRESS;Database=Practico1Seguir;Integrated Security=True;TrustServerCertificate=True";
+        //string connectionString = "Server=SantinoLaptop\\SQLEXPRESS;Database=Practico1Seguir;Integrated Security=True;TrustServerCertificate=True";
+        string connectionString = "Server=sqlserver;Database=Practico1Seguir;User id=sa; Password=Abc*123!;TrustServerCertificate=True";
 
         public DBContext() { }
 
@@ -29,5 +31,12 @@ namespace DAL
         public DbSet<Personas> Personas { get; set; }
         public DbSet<Vehiculos> Vehiculos { get; set; }
 
+        public static void UpdateDatabase()
+        {
+            using (var context = new DBContext())
+            {
+                context.Database.Migrate();
+            }
+        }
     }
 }
